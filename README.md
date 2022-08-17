@@ -13,13 +13,14 @@ numpy
 
 ## Citing
 
-If you use this backdoor in your research, please cite the paper. In BibTex format:
+If you use this backdoor in your research, please cite the [paper](https://arxiv.org/abs/2205.02589). In BibTex format:
 
+```bibtex
 @misc{yu2022temporal,
       title={A Temporal-Pattern Backdoor Attack to Deep Reinforcement Learning},
       author={Yinbo Yu, Jiajia Liu, Shouqing Li, Kepu Huang, and Xudong Feng},
       url={https://arxiv.org/abs/2205.02589},
       booktitle={Proceedings of IEEE Global Communications Conference},
       year={2022},
-      month={6}
+      month={12}
  }
